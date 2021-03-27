@@ -13,6 +13,11 @@ function App() {
       username:'Rahul' ,
       caption:'Elephant is love' ,
       imagrUrl:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ-8R1DogP9c92qoJRclukecXui8AcEPAI7A&usqp=CAU'
+    },
+    {
+      username:'Rahul' ,
+      caption:'Elephant is love' ,
+      imagrUrl:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ-8R1DogP9c92qoJRclukecXui8AcEPAI7A&usqp=CAU'
     }
   ]);
 
