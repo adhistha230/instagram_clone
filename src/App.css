@@ -17,3 +17,7 @@
   height:50px;
   width:100;
 }
+.app__signUp{
+  display:flex;
+  flex-direction:column;
+}
